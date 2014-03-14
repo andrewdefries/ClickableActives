@@ -6,6 +6,8 @@ library(hwriter)
 #data(sdfsample)
 #sdfset<-sdfsample
 #smiset<-sdf2smiles(sdfset)
+cid(sdfset)<-gsub("_","",sdfid(sdfset))
+
 apset<-sdf2ap(sdfset)
 fpset<-desc2fp(apset)
 ##

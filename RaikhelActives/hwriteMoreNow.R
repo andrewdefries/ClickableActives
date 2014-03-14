@@ -1,6 +1,7 @@
 ##################
 #system("rm *.sdf")
 #system("rm *.smi")
+#system("rm CLK*")
 system("gzip *.png")
 system("rm *.png")
 #system("unzip YAWYE_clean.sdf.gz")
@@ -34,6 +35,7 @@ a<-1:length(smiset) #change to 2 for testing
 lapply(a,WriteSdfOut)
 ################
 WriteSmiOut<-function(a){
+cid(smiset)<-gsub("_","",cid(smiset))
 #cid(smiset)<-cid(sdfset[a])
 write.SMI(smi=smiset[a], file=paste(cid(sdfset[a]), ".smi", sep=""), cid=T)
 }

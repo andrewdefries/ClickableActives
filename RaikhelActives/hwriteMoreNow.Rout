@@ -22,6 +22,7 @@ Type 'q()' to quit R.
 > ##################
 > #system("rm *.sdf")
 > #system("rm *.smi")
+> #system("rm CLK*")
 > system("gzip *.png")
 > system("rm *.png")
 rm: cannot remove `*.png': No such file or directory
@@ -105,6 +106,7 @@ NULL
 
 > ################
 > WriteSmiOut<-function(a){
++ cid(smiset)<-gsub("_","",cid(smiset))
 + #cid(smiset)<-cid(sdfset[a])
 + write.SMI(smi=smiset[a], file=paste(cid(sdfset[a]), ".smi", sep=""), cid=T)
 + }
@@ -209,4 +211,4 @@ NULL
 > 
 > proc.time()
    user  system elapsed 
-  1.684   0.168   1.888 
+  1.708   0.160   1.913 
