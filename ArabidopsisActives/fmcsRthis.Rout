@@ -28,6 +28,7 @@ Type 'q()' to quit R.
 > ##################
 > #valid<-validSDF(sdfset)
 > #sdfset<-sdfset[valid]
+> #cid(sdfset)<-gsub("_","", sdfid(sdfset))
 > cid(sdfset)<-gsub("\\s__\\s", "", sdfid(sdfset))
 Warning message:
 In `cid<-`(`*tmp*`, value = c("", "", "", "", "", "", "", "", "",  :
@@ -87,4 +88,4 @@ null device
 > 
 > proc.time()
    user  system elapsed 
-352.866   0.184 353.039 
+351.281   0.208 351.480 

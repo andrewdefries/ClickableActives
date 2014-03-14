@@ -7,6 +7,7 @@ sdfset<-read.SDFset(files[1])
 ##################
 #valid<-validSDF(sdfset)
 #sdfset<-sdfset[valid]
+#cid(sdfset)<-gsub("_","", sdfid(sdfset))
 cid(sdfset)<-gsub("\\s__\\s", "", sdfid(sdfset))
 apset<-sdf2ap(sdfset)
 #sdfset<-sdfset[!sapply(as(apset,"list"),length)==1]

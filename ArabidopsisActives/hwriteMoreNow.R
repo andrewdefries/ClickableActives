@@ -16,7 +16,8 @@ files<-list.files(pattern="ClickableArabidopsisActivesFix.sdf", recursive=F)
 t<-1
 sdfset<-read.SDFset(files[t])
 ###############
-#cid(sdfset)<-gsub("  ","",sdfid(sdfset))
+#cid(sdfset)<-gsub("_","",sdfid(sdfset))
+#cid(smiset)<-gsub("_","",cid(smiset))
 cid(sdfset)<-gsub("\\s__\\s","",sdfid(sdfset))
 #cid(sdfset)<-sdfid(sdfset)
 apset<-sdf2ap(sdfset)
@@ -47,7 +48,7 @@ a<-1:length(smiset) #change to 2 for testing
 lapply(a,WriteSdfOut)
 ################
 WriteSmiOut<-function(a){
-cid(smiset)<-gsub("\\s__\\s","",cid(smiset))
+cid(smiset)<-gsub("_","",cid(smiset))
 write.SMI(smi=smiset[a], file=paste(cid(sdfset[a]), ".smi", sep=""), cid=T)
 }
 a<-1:length(smiset) #change to 2 for testing
