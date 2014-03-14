@@ -24,7 +24,7 @@ Type 'q()' to quit R.
 > #system("rm *.smi")
 > system("rm CLK*")
 > system("gzip *.png")
-> system("rm *.png")
+gzip: ClidNeighbors.png.gz already exists; do you wish to overwrite (y or n)? gzip: hclust_fmcsR_cladogram.png.gz already exists; do you wish to overwrite (y or n)? > system("rm *.png")
 rm: cannot remove `*.png': No such file or directory
 > #system("unzip YAWYE_clean.sdf.gz")
 > #system("cp /home/waynebrain/Desktop/YAWYE/YAWYE_clean.sdf .")
@@ -421,7 +421,7 @@ NULL
 
 > ################
 > WriteSmiOut<-function(a){
-+ #cid(smiset)<-cid(sdfset[a])
++ cid(smiset)<-gsub("\\s__\\s","",cid(smiset))
 + write.SMI(smi=smiset[a], file=paste(cid(sdfset[a]), ".smi", sep=""), cid=T)
 + }
 > a<-1:length(smiset) #change to 2 for testing
@@ -1030,4 +1030,4 @@ NULL
 > 
 > proc.time()
    user  system elapsed 
-  8.288   0.908   9.427 
+  8.408   0.892 114.187 

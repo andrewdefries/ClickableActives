@@ -17,6 +17,8 @@ Type 'demo()' for some demos, 'help()' for on-line help, or
 'help.start()' for an HTML browser interface to help.
 Type 'q()' to quit R.
 
+[Previously saved workspace restored]
+
 > ##################
 > library(ChemmineR)
 > ##################
@@ -85,4 +87,4 @@ null device
 > 
 > proc.time()
    user  system elapsed 
-351.805   0.188 351.982 
+352.866   0.184 353.039 

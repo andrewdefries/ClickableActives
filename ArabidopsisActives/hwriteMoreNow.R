@@ -47,7 +47,7 @@ a<-1:length(smiset) #change to 2 for testing
 lapply(a,WriteSdfOut)
 ################
 WriteSmiOut<-function(a){
-#cid(smiset)<-cid(sdfset[a])
+cid(smiset)<-gsub("\\s__\\s","",cid(smiset))
 write.SMI(smi=smiset[a], file=paste(cid(sdfset[a]), ".smi", sep=""), cid=T)
 }
 a<-1:length(smiset) #change to 2 for testing
