@@ -8,7 +8,7 @@ sdfset<-read.SDFset(files[1])
 #valid<-validSDF(sdfset)
 #sdfset<-sdfset[valid]
 #
-cid(sdfset)<-sdfid(sdfset)
+cid(sdfset)<-gsub("_","",sdfid(sdfset))
 #
 apset<-sdf2ap(sdfset)
 #sdfset<-sdfset[!sapply(as(apset,"list"),length)==1]
@@ -33,7 +33,7 @@ dev.off()
 ################
 library(fmcsR)
 ################
-png(file="hclust_fmcsR_cladogram.png", width=6400, height=6400, units="px")
+png(file="hclust_fmcsR_cladogram.png", width=1200, height=1200, units="px")
 ##################
 d <- sapply(cid(sdfset), function(x)
 fmcsBatch(sdfset[x], sdfset, au=0, bu=0,

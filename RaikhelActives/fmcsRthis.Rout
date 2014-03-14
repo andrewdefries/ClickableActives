@@ -17,6 +17,8 @@ Type 'demo()' for some demos, 'help()' for on-line help, or
 'help.start()' for an HTML browser interface to help.
 Type 'q()' to quit R.
 
+[Previously saved workspace restored]
+
 > ##################
 > library(ChemmineR)
 > ##################
@@ -27,7 +29,7 @@ Type 'q()' to quit R.
 > #valid<-validSDF(sdfset)
 > #sdfset<-sdfset[valid]
 > #
-> cid(sdfset)<-sdfid(sdfset)
+> cid(sdfset)<-gsub("_","",sdfid(sdfset))
 > #
 > apset<-sdf2ap(sdfset)
 > #sdfset<-sdfset[!sapply(as(apset,"list"),length)==1]
@@ -56,7 +58,7 @@ null device
 > ################
 > library(fmcsR)
 > ################
-> png(file="hclust_fmcsR_cladogram.png", width=6400, height=6400, units="px")
+> png(file="hclust_fmcsR_cladogram.png", width=1200, height=1200, units="px")
 > ##################
 > d <- sapply(cid(sdfset), function(x)
 + fmcsBatch(sdfset[x], sdfset, au=0, bu=0,
@@ -75,4 +77,4 @@ null device
 > 
 > proc.time()
    user  system elapsed 
- 10.868   0.100  10.968 
+  8.804   0.036   8.838 

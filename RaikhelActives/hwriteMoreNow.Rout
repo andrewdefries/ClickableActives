@@ -37,7 +37,7 @@ rm: cannot remove `*.png': No such file or directory
 > t<-1
 > sdfset<-read.SDFset(files[t])
 > ###############
-> cid(sdfset)<-sdfid(sdfset)
+> cid(sdfset)<-gsub("_","",sdfid(sdfset))
 > apset<-sdf2ap(sdfset)
 > #sdfset<-sdfset[!sapply(as(apset,"list"),length)==1]
 > #############
@@ -209,4 +209,4 @@ NULL
 > 
 > proc.time()
    user  system elapsed 
-  1.672   0.176   1.889 
+  1.684   0.168   1.888 

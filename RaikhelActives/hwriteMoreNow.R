@@ -15,7 +15,7 @@ files<-list.files(pattern="RaikhelPNAS.sdf", recursive=F)
 t<-1
 sdfset<-read.SDFset(files[t])
 ###############
-cid(sdfset)<-sdfid(sdfset)
+cid(sdfset)<-gsub("_","",sdfid(sdfset))
 apset<-sdf2ap(sdfset)
 #sdfset<-sdfset[!sapply(as(apset,"list"),length)==1]
 #############
