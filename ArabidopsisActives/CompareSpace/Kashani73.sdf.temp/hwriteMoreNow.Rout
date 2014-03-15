@@ -22,6 +22,7 @@ Type 'q()' to quit R.
 > #system("rm *.smi")
 > #system("rm CLK*")
 > system("gzip *.png")
+gzip: *.png: No such file or directory
 > system("rm *.png")
 rm: cannot remove `*.png': No such file or directory
 > #system("unzip YAWYE_clean.sdf.gz")
@@ -52,11 +53,14 @@ In `cid<-`(`*tmp*`, value = c("CMP1", "CMP2", "CMP3", "CMP4", "CMP5",  :
 Warning message:
 In `cid<-`(`*tmp*`, value = c("CMP1", "CMP2", "CMP3", "CMP4", "CMP5",  :
   The values in the CMP ID slot are not unique anymore. To fix this, run: cid(sdfset) <- makeUnique(cid(sdfset))
-> #cid(smiset)<-gsub(" ","_",cid(smiset))
+> cid(sdfset)<-gsub(" ","_",cid(sdfset))
+Warning message:
+In `cid<-`(`*tmp*`, value = c("CMP1", "CMP2", "CMP3", "CMP4", "CMP5",  :
+  The values in the CMP ID slot are not unique anymore. To fix this, run: cid(sdfset) <- makeUnique(cid(sdfset))
 > #cid(sdfset)<-gsub("\\s__\\s","",sdfid(sdfset))
 > #cid(sdfset)<-sdfid(sdfset)
 > apset<-sdf2ap(sdfset)
-> #sdfset<-sdfset[!sapply(as(apset,"list"),length)==1]
+> sdfset<-sdfset[!sapply(as(apset,"list"),length)==1]
 > #############
 > ##############
 > #blockmatrix <-datablock2ma(datablocklist=datablock(sdfset))
@@ -627,7 +631,7 @@ NULL
 
 > ################
 > WriteSmiOut<-function(a){
-+ cid(smiset)<-gsub(" ","_",cid(smiset))
++ #cid(smiset)<-gsub(" ","_",cid(smiset))
 + write.SMI(smi=smiset[a], file=paste(cid(sdfset[a]), ".smi", sep=""), cid=T)
 + }
 > a<-1:length(smiset) #change to 2 for testing
@@ -1175,7 +1179,6 @@ NULL
 [[181]]
 NULL
 
-There were 50 or more warnings (use warnings() to see the first 50)
 > ###############
 > system("for i in *.smi
 + do babel $i -O $i.png 

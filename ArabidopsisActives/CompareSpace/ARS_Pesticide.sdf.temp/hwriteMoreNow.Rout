@@ -22,6 +22,7 @@ Type 'q()' to quit R.
 > #system("rm *.smi")
 > #system("rm CLK*")
 > system("gzip *.png")
+gzip: *.png: No such file or directory
 > system("rm *.png")
 rm: cannot remove `*.png': No such file or directory
 > #system("unzip YAWYE_clean.sdf.gz")
@@ -52,11 +53,14 @@ In `cid<-`(`*tmp*`, value = c("2-(2,4-Dichloropheno", "EPN", "Chlordane",  :
 Warning message:
 In `cid<-`(`*tmp*`, value = c("2-(2,4-Dichloropheno", "EPN", "Chlordane",  :
   The values in the CMP ID slot are not unique anymore. To fix this, run: cid(sdfset) <- makeUnique(cid(sdfset))
-> #cid(smiset)<-gsub(" ","_",cid(smiset))
+> cid(sdfset)<-gsub(" ","_",cid(sdfset))
+Warning message:
+In `cid<-`(`*tmp*`, value = c("2-(2,4-Dichloropheno", "EPN", "Chlordane",  :
+  The values in the CMP ID slot are not unique anymore. To fix this, run: cid(sdfset) <- makeUnique(cid(sdfset))
 > #cid(sdfset)<-gsub("\\s__\\s","",sdfid(sdfset))
 > #cid(sdfset)<-sdfid(sdfset)
 > apset<-sdf2ap(sdfset)
-> #sdfset<-sdfset[!sapply(as(apset,"list"),length)==1]
+> sdfset<-sdfset[!sapply(as(apset,"list"),length)==1]
 > #############
 > ##############
 > #blockmatrix <-datablock2ma(datablocklist=datablock(sdfset))
@@ -1201,15 +1205,9 @@ NULL
 [[373]]
 NULL
 
-[[374]]
-NULL
-
-[[375]]
-NULL
-
 > ################
 > WriteSmiOut<-function(a){
-+ cid(smiset)<-gsub(" ","_",cid(smiset))
++ #cid(smiset)<-gsub(" ","_",cid(smiset))
 + write.SMI(smi=smiset[a], file=paste(cid(sdfset[a]), ".smi", sep=""), cid=T)
 + }
 > a<-1:length(smiset) #change to 2 for testing
@@ -2333,13 +2331,6 @@ NULL
 [[373]]
 NULL
 
-[[374]]
-NULL
-
-[[375]]
-NULL
-
-There were 50 or more warnings (use warnings() to see the first 50)
 > ###############
 > system("for i in *.smi
 + do babel $i -O $i.png 
@@ -2538,8 +2529,6 @@ There were 50 or more warnings (use warnings() to see the first 50)
 47 audit log messages 
 1 molecule converted
 55 audit log messages 
-1 molecule converted
-42 audit log messages 
 1 molecule converted
 47 audit log messages 
 1 molecule converted
@@ -2752,8 +2741,6 @@ There were 50 or more warnings (use warnings() to see the first 50)
 49 audit log messages 
 1 molecule converted
 46 audit log messages 
-1 molecule converted
-39 audit log messages 
 1 molecule converted
 49 audit log messages 
 1 molecule converted

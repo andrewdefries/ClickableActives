@@ -20,11 +20,11 @@ cid(sdfset)<-substring(gsub(" ","_",sdfid(sdfset)), 1, 20)
 cid(sdfset)<-gsub("\\=", "_", cid(sdfset))
 cid(sdfset)<-gsub("\\/", "_", cid(sdfset))
 cid(sdfset)<-gsub("\\?", "_", cid(sdfset))
-#cid(smiset)<-gsub(" ","_",cid(smiset))
+cid(sdfset)<-gsub(" ","_",cid(sdfset))
 #cid(sdfset)<-gsub("\\s__\\s","",sdfid(sdfset))
 #cid(sdfset)<-sdfid(sdfset)
 apset<-sdf2ap(sdfset)
-#sdfset<-sdfset[!sapply(as(apset,"list"),length)==1]
+sdfset<-sdfset[!sapply(as(apset,"list"),length)==1]
 #############
 ##############
 #blockmatrix <-datablock2ma(datablocklist=datablock(sdfset))
@@ -51,7 +51,7 @@ a<-1:length(smiset) #change to 2 for testing
 lapply(a,WriteSdfOut)
 ################
 WriteSmiOut<-function(a){
-cid(smiset)<-gsub(" ","_",cid(smiset))
+#cid(smiset)<-gsub(" ","_",cid(smiset))
 write.SMI(smi=smiset[a], file=paste(cid(sdfset[a]), ".smi", sep=""), cid=T)
 }
 a<-1:length(smiset) #change to 2 for testing

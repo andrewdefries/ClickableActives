@@ -1,5 +1,5 @@
 2-(2,4-Dichlorophenoxy)propionic Acid -
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  14 14  0  0  0  0  0  0  0  0999 V2000
    -0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -33,7 +33,7 @@
 M  END
 $$$$
 EPN
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  21 22  0  0  0  0  0  0  0  0999 V2000
     2.4454    1.3184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -83,7 +83,7 @@ M  CHG  2  13   1  14  -1
 M  END
 $$$$
 Chlordane
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  18 20  0  0  0  0  0  0  0  0999 V2000
    -1.4982   -0.6855    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
@@ -127,7 +127,7 @@ Chlordane
 M  END
 $$$$
 prometryn
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  16 16  0  0  0  0  0  0  0  0999 V2000
     0.0000    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -165,7 +165,7 @@ prometryn
 M  END
 $$$$
 Profenofos
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  18 18  0  0  0  0  0  0  0  0999 V2000
    -1.4289    4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -207,7 +207,7 @@ Profenofos
 M  END
 $$$$
 Trichlorfon
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  12 11  0  0  0  0  0  0  0  0999 V2000
    -0.6039   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -236,7 +236,7 @@ Trichlorfon
 M  END
 $$$$
 6-chloro-3-(diethoxyphosphinothioylsulfanylmethyl)-1,3-benzoxazol-2-one
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  21 22  0  0  0  0  0  0  0  0999 V2000
    -2.7772    3.4510    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -285,7 +285,7 @@ $$$$
 M  END
 $$$$
 dicofol
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  20 21  0  0  0  0  0  0  0  0999 V2000
    -0.1105   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -332,7 +332,7 @@ dicofol
 M  END
 $$$$
 DDE
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  18 19  0  0  0  0  0  0  0  0999 V2000
     1.4289    0.8250    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
@@ -375,7 +375,7 @@ DDE
 M  END
 $$$$
 Lipan
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  14 14  0  0  0  0  0  0  0  0999 V2000
     0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -410,7 +410,7 @@ M  CHG  4   9   1  10  -1  12   1  13  -1
 M  END
 $$$$
 Amitraz
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  22 23  0  0  0  0  0  0  0  0999 V2000
     2.8579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -461,7 +461,7 @@ Amitraz
 M  END
 $$$$
 fenaminosulf
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  16 15  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 Na  0  0  0  0  0 15  0  0  0  0  0  0
@@ -498,7 +498,7 @@ fenaminosulf
 M  END
 $$$$
 Chlorobromuron
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  15 15  0  0  0  0  0  0  0  0999 V2000
    -0.7145    4.5375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -537,7 +537,7 @@ common __
 
 $$$$
 desmedipham
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  22 23  0  0  0  0  0  0  0  0999 V2000
    -4.2868   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -588,7 +588,7 @@ desmedipham
 M  END
 $$$$
 2-(1,3-Dioxolan-2-yl)phenyl methylcarbamate
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  16 17  0  0  0  0  0  0  0  0999 V2000
     2.2501    1.1759    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -627,7 +627,7 @@ $$$$
 M  END
 $$$$
 Mecoprop
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  14 14  0  0  0  0  0  0  0  0999 V2000
    -0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -661,7 +661,7 @@ Mecoprop
 M  END
 $$$$
 Naled
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  13 12  0  0  0  0  0  0  0  0999 V2000
    -0.6039   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -692,7 +692,7 @@ Naled
 M  END
 $$$$
 molinate
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  12 12  0  0  0  0  0  0  0  0999 V2000
    -0.5724    3.8382    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -722,7 +722,7 @@ molinate
 M  END
 $$$$
 1,2-Dibromethan
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
   4  3  0  0  0  0  0  0  0  0999 V2000
     2.0625   -0.7145    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
@@ -735,7 +735,7 @@ $$$$
 M  END
 $$$$
 oxamyl
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  14 13  0  0  0  0  0  0  0  0999 V2000
     3.3000    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -768,7 +768,7 @@ oxamyl
 M  END
 $$$$
 DDT
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  19 20  0  0  0  0  0  0  0  0999 V2000
     2.1434   -0.4125    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
@@ -813,7 +813,7 @@ DDT
 M  END
 $$$$
 flucythrinate
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  33 35  0  0  1  0  0  0  0  0999 V2000
     0.7145   -2.6664    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -887,7 +887,7 @@ flucythrinate
 M  END
 $$$$
 Nitrofen
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  18 19  0  0  0  0  0  0  0  0999 V2000
     1.4289    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -930,7 +930,7 @@ Nitrofen
 M  END
 $$$$
 torque
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  63 68  0  0  0  0  0  0  0  0999 V2000
    -3.7328    0.2634    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1067,7 +1067,7 @@ torque
 M  END
 $$$$
 cyfluthrin
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  29 31  0  0  0  0  0  0  0  0999 V2000
     0.5432   -2.6053    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1133,7 +1133,7 @@ cyfluthrin
 M  END
 $$$$
 Propoxur
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  15 15  0  0  0  0  0  0  0  0999 V2000
    -0.7145    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1169,7 +1169,7 @@ Propoxur
 M  END
 $$$$
 Metiram
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  22 21  0  0  0  0  0  0  0  0999 V2000
    13.6638    6.2388    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1218,7 +1218,7 @@ Metiram
 M  END
 $$$$
 trifluralin
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  23 23  0  0  0  0  0  0  0  0999 V2000
     0.7145   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1271,7 +1271,7 @@ M  CHG  4  14   1  15  -1  21   1  22  -1
 M  END
 $$$$
 oxadiazon
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  22 23  0  0  0  0  0  0  0  0999 V2000
     0.8212    6.0027    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1322,7 +1322,7 @@ oxadiazon
 M  END
 $$$$
 profluralin
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  24 25  0  0  0  0  0  0  0  0999 V2000
     0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1378,7 +1378,7 @@ M  CHG  4  15   1  16  -1  22   1  23  -1
 M  END
 $$$$
 Metalaxyl
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  20 20  0  0  0  0  0  0  0  0999 V2000
     2.1434   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1424,7 +1424,7 @@ Metalaxyl
 M  END
 $$$$
 Endosulfan
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  19 21  0  0  0  0  0  0  0  0999 V2000
    -0.4595   -2.6321    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
@@ -1470,7 +1470,7 @@ Endosulfan
 M  END
 $$$$
 cyromazine
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  12 13  0  0  0  0  0  0  0  0999 V2000
     0.4125    1.8882    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1501,7 +1501,7 @@ cyromazine
 M  END
 $$$$
 Endrin
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  19 23  0  0  0  0  0  0  0  0999 V2000
    -0.2787    0.5950    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
@@ -1549,7 +1549,7 @@ Endrin
 M  END
 $$$$
 Carbofuran
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  16 17  0  0  0  0  0  0  0  0999 V2000
     4.7079    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1588,7 +1588,7 @@ Carbofuran
 M  END
 $$$$
 2-methyl-2-(methylthio)propanal O-(N-methylcarbamoyl)oxime
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  12 11  0  0  0  0  0  0  0  0999 V2000
     3.3000    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1617,7 +1617,7 @@ $$$$
 M  END
 $$$$
 tolclofos-methyl
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  16 16  0  0  0  0  0  0  0  0999 V2000
    -0.7145    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1658,7 +1658,7 @@ common __
 
 $$$$
 Aldrin
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  18 21  0  0  1  0  0  0  0  0999 V2000
    -0.2787    0.5950    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
@@ -1703,7 +1703,7 @@ Aldrin
 M  END
 $$$$
 2-chloro-3-(diethylamino)-1-methyl-3-oxo-1-propenyl dimethyl phosphate
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  18 17  0  0  0  0  0  0  0  0999 V2000
     3.3000    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1744,7 +1744,7 @@ $$$$
 M  END
 $$$$
 Esfenvalerate
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  30 32  0  0  1  0  0  0  0  0999 V2000
     0.7145   -2.6664    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1812,7 +1812,7 @@ Esfenvalerate
 M  END
 $$$$
 Pirimicarb
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  17 17  0  0  0  0  0  0  0  0999 V2000
     2.1434    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1852,7 +1852,7 @@ Pirimicarb
 M  END
 $$$$
 1-Naphthaleneacetamide
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  14 15  0  0  0  0  0  0  0  0999 V2000
    -0.7145    2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1887,7 +1887,7 @@ $$$$
 M  END
 $$$$
 Chlorpyrifos
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  18 18  0  0  0  0  0  0  0  0999 V2000
    -1.4289    4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1929,7 +1929,7 @@ Chlorpyrifos
 M  END
 $$$$
 S-Ethyl diisobutylthiocarbamate
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  14 13  0  0  0  0  0  0  0  0999 V2000
     1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1962,7 +1962,7 @@ S-Ethyl diisobutylthiocarbamate
 M  END
 $$$$
 mepiquat chloride
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
   9  8  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
@@ -1985,7 +1985,7 @@ mepiquat chloride
 M  END
 $$$$
 Dimethoate
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  12 11  0  0  0  0  0  0  0  0999 V2000
     4.8099    0.3020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2014,7 +2014,7 @@ Dimethoate
 M  END
 $$$$
 chlozolinate
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  21 22  0  0  0  0  0  0  0  0999 V2000
     1.3087    1.5579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2063,7 +2063,7 @@ chlozolinate
 M  END
 $$$$
 Mexacarbate
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  16 16  0  0  0  0  0  0  0  0999 V2000
    -0.7145    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2101,7 +2101,7 @@ Mexacarbate
 M  END
 $$$$
 resmethrin
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  25 27  0  0  0  0  0  0  0  0999 V2000
     8.1813   -4.1259    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2159,7 +2159,7 @@ resmethrin
 M  END
 $$$$
 Cephalon
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  15 15  0  0  0  0  0  0  0  0999 V2000
    -0.7145    4.5375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2198,7 +2198,7 @@ common __
 
 $$$$
 Dicamba
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  13 13  0  0  0  0  0  0  0  0999 V2000
     0.0000    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2230,7 +2230,7 @@ Dicamba
 M  END
 $$$$
 DBH
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  12 12  0  0  1  0  0  0  0  0999 V2000
     0.7145    2.0625    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
@@ -2260,7 +2260,7 @@ DBH
 M  END
 $$$$
 sodium chlorate
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
   5  3  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 Na  0  0  0  0  0 15  0  0  0  0  0  0
@@ -2274,7 +2274,7 @@ sodium chlorate
 M  END
 $$$$
 testo
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  14 16  0  0  0  0  0  0  0  0999 V2000
    -0.1435   -1.3654    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2310,7 +2310,7 @@ testo
 M  END
 $$$$
 dibromethen
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
   4  3  0  0  0  0  0  0  0  0999 V2000
     1.2375    0.7145    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
@@ -2323,7 +2323,7 @@ dibromethen
 M  END
 $$$$
 Diethoxy-[(2-isopropyl-6-methyl-4-pyrimidinyl)oxy]-thioxophosphorane
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  19 19  0  0  0  0  0  0  0  0999 V2000
     2.8579    4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2367,7 +2367,7 @@ Diethoxy-[(2-isopropyl-6-methyl-4-pyrimidinyl)oxy]-thioxophosphorane
 M  END
 $$$$
 benalaxyl
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  24 25  0  0  0  0  0  0  0  0999 V2000
     0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2422,7 +2422,7 @@ benalaxyl
 M  END
 $$$$
 FONOFOS
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
   7  6  0  0  0  0  0  0  0  0999 V2000
     2.3155    0.1200    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2444,7 +2444,7 @@ smiles __
 
 $$$$
 Ametrine
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  15 15  0  0  0  0  0  0  0  0999 V2000
     0.0000    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2480,7 +2480,7 @@ Ametrine
 M  END
 $$$$
 Chlorobenzilate
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  21 22  0  0  0  0  0  0  0  0999 V2000
    -1.7605   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2529,7 +2529,7 @@ Chlorobenzilate
 M  END
 $$$$
 dinoseb
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  17 17  0  0  0  0  0  0  0  0999 V2000
     1.4289    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2570,7 +2570,7 @@ M  CHG  4  12   1  13  -1  15   1  16  -1
 M  END
 $$$$
 ethalfluralin
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  23 23  0  0  0  0  0  0  0  0999 V2000
     1.4289   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2623,7 +2623,7 @@ M  CHG  4  14   1  15  -1  21   1  22  -1
 M  END
 $$$$
 Methyl isothiocyanate
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
   4  3  0  0  0  0  0  0  0  0999 V2000
     1.2375   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2636,7 +2636,7 @@ Methyl isothiocyanate
 M  END
 $$$$
 1-Chlorpropan
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
   4  3  0  0  0  0  0  0  0  0999 V2000
     2.0625   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2649,7 +2649,7 @@ $$$$
 M  END
 $$$$
 Alachlor
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  18 18  0  0  0  0  0  0  0  0999 V2000
     6.4302   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2691,7 +2691,7 @@ Alachlor
 M  END
 $$$$
 Ethoprop
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  13 12  0  0  0  0  0  0  0  0999 V2000
     4.9500   -2.8579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2722,7 +2722,7 @@ Ethoprop
 M  END
 $$$$
 nicosulfuron
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  28 29  0  0  0  0  0  0  0  0999 V2000
    -0.7145   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2785,7 +2785,7 @@ nicosulfuron
 M  END
 $$$$
 Kaptan
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  16 17  0  0  0  0  0  0  0  0999 V2000
    -0.9962   -2.1269    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
@@ -2824,7 +2824,7 @@ Kaptan
 M  END
 $$$$
 cyhalothrin
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  31 33  0  0  0  0  0  0  0  0999 V2000
     0.5432   -2.6053    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2894,7 +2894,7 @@ cyhalothrin
 M  END
 $$$$
 Chloropropham
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  14 14  0  0  0  0  0  0  0  0999 V2000
    -0.7145    4.5375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2931,7 +2931,7 @@ common __
 
 $$$$
 3,6-Dichloro-2-pyridinecarboxylic acid
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  11 11  0  0  0  0  0  0  0  0999 V2000
     0.0000    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2959,7 +2959,7 @@ $$$$
 M  END
 $$$$
 Sevin
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  15 16  0  0  0  0  0  0  0  0999 V2000
    -1.4289    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2996,7 +2996,7 @@ Sevin
 M  END
 $$$$
 triadimefon
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  20 21  0  0  0  0  0  0  0  0999 V2000
     0.6078    0.2277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3043,7 +3043,7 @@ triadimefon
 M  END
 $$$$
 Ansar
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
   5  4  0  0  0  0  0  0  0  0999 V2000
     0.8250   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3058,7 +3058,7 @@ Ansar
 M  END
 $$$$
 Fluometuron
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  16 16  0  0  0  0  0  0  0  0999 V2000
     2.1434    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3096,7 +3096,7 @@ Fluometuron
 M  END
 $$$$
 Paclobutrazol
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  20 21  0  0  0  0  0  0  0  0999 V2000
     0.6078    0.2277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3146,7 +3146,7 @@ common __
 
 $$$$
 isopropalin
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  22 22  0  0  0  0  0  0  0  0999 V2000
     0.7145   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3200,7 +3200,7 @@ common __
 
 $$$$
 machete
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  21 21  0  0  0  0  0  0  0  0999 V2000
     0.9059   -2.9980    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3248,7 +3248,7 @@ machete
 M  END
 $$$$
 prodiamine
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  24 24  0  0  0  0  0  0  0  0999 V2000
     0.7145   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3305,7 +3305,7 @@ common __
 
 $$$$
 sethoxydim
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  22 22  0  0  0  0  0  0  0  0999 V2000
    -1.4289   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3355,7 +3355,7 @@ sethoxydim
 M  END
 $$$$
 1-(2-diethoxyphosphorylsulfanylethylsulfanyl)ethane
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  14 13  0  0  0  0  0  0  0  0999 V2000
     5.3625   -3.5724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3388,7 +3388,7 @@ $$$$
 M  END
 $$$$
 Methiocarb
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  15 15  0  0  0  0  0  0  0  0999 V2000
    -0.7145    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3424,7 +3424,7 @@ Methiocarb
 M  END
 $$$$
 Nitrapyrin
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  11 11  0  0  0  0  0  0  0  0999 V2000
     0.7145    2.0625    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
@@ -3452,7 +3452,7 @@ Nitrapyrin
 M  END
 $$$$
 mercapto-, sulfanyl-
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
   2  1  0  0  0  0  0  0  0  0999 V2000
     0.8250    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3461,7 +3461,7 @@ mercapto-, sulfanyl-
 M  END
 $$$$
 prochloraz
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  23 24  0  0  0  0  0  0  0  0999 V2000
    -2.6664   -1.7605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3514,7 +3514,7 @@ prochloraz
 M  END
 $$$$
 Acetate
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
   4  3  0  0  0  0  0  0  0  0999 V2000
     1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3528,7 +3528,7 @@ M  CHG  1   3  -1
 M  END
 $$$$
 Formetanate
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  16 16  0  0  0  0  0  0  0  0999 V2000
     2.1434    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3566,7 +3566,7 @@ Formetanate
 M  END
 $$$$
 metribuzin
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  14 14  0  0  0  0  0  0  0  0999 V2000
     0.0000    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3600,7 +3600,7 @@ metribuzin
 M  END
 $$$$
 1,3,5-Triazine-2,4-diamine, 6-chloro-N,N'-bis(1-methylethyl)-
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  15 15  0  0  0  0  0  0  0  0999 V2000
     0.0000    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3636,7 +3636,7 @@ $$$$
 M  END
 $$$$
 isoxaben
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  24 25  0  0  0  0  0  0  0  0999 V2000
     2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3691,7 +3691,7 @@ isoxaben
 M  END
 $$$$
 Triadimenol
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  20 21  0  0  0  0  0  0  0  0999 V2000
     0.6078    0.2277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3738,7 +3738,7 @@ Triadimenol
 M  END
 $$$$
 lactofen
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  31 32  0  0  0  0  0  0  0  0999 V2000
    -3.5724   -6.1875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3807,7 +3807,7 @@ lactofen
 M  END
 $$$$
 propiconazole
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  22 24  0  0  0  0  0  0  0  0999 V2000
     2.2308   -4.4153    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3859,7 +3859,7 @@ propiconazole
 M  END
 $$$$
 Captafol
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  18 19  0  0  1  0  0  0  0  0999 V2000
    -1.8212   -2.1269    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
@@ -3905,7 +3905,7 @@ common __
 
 $$$$
 dinocap
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  26 26  0  0  0  0  0  0  0  0999 V2000
    -4.2868    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3967,7 +3967,7 @@ common __
 
 $$$$
 2,4,6,8-Tetramethyl-1,3,5,7-tetroxocan
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  12 12  0  0  0  0  0  0  0  0999 V2000
     0.9959    2.3154    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3997,7 +3997,7 @@ $$$$
 M  END
 $$$$
 triflumizole
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  23 24  0  0  0  0  0  0  0  0999 V2000
    -2.8579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4053,7 +4053,7 @@ common __
 
 $$$$
 MEP
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  17 17  0  0  0  0  0  0  0  0999 V2000
    -0.7145    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4094,7 +4094,7 @@ M  CHG  2  15   1  16  -1
 M  END
 $$$$
 N-isopropyl-3-(3,5-dichlorophenyl)-2,4-dioxoimidazolidine-1-carboxamide
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  21 22  0  0  0  0  0  0  0  0999 V2000
     2.1434    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4143,7 +4143,7 @@ N-isopropyl-3-(3,5-dichlorophenyl)-2,4-dioxoimidazolidine-1-carboxamide
 M  END
 $$$$
 isophenphos
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  22 22  0  0  0  0  0  0  0  0999 V2000
    -1.4289    4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4193,7 +4193,7 @@ isophenphos
 M  END
 $$$$
 Propargite
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  24 25  0  0  0  0  0  0  0  0999 V2000
    -2.8579    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4248,7 +4248,7 @@ Propargite
 M  END
 $$$$
 Flumetralin
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  28 29  0  0  0  0  0  0  0  0999 V2000
     1.4289   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4314,7 +4314,7 @@ common __
 
 $$$$
 ethofumesate
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  19 20  0  0  0  0  0  0  0  0999 V2000
    -2.6909   -1.4124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4359,7 +4359,7 @@ ethofumesate
 M  END
 $$$$
 Carbendazim
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  14 15  0  0  0  0  0  0  0  0999 V2000
    -3.1034   -2.1269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4394,7 +4394,7 @@ Carbendazim
 M  END
 $$$$
 Oryzalin
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  23 23  0  0  0  0  0  0  0  0999 V2000
     0.7145   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4447,7 +4447,7 @@ M  CHG  4  14   1  15  -1  21   1  22  -1
 M  END
 $$$$
 1,2-dibromo-3-chloropropane
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
   6  5  0  0  0  0  0  0  0  0999 V2000
     2.4750   -1.4289    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
@@ -4464,7 +4464,7 @@ $$$$
 M  END
 $$$$
 abate
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  27 28  0  0  0  0  0  0  0  0999 V2000
     0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4525,7 +4525,7 @@ abate
 M  END
 $$$$
 pyrethrin I
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  24 25  0  0  1  0  0  0  0  0999 V2000
    -8.7775    2.3120    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4580,7 +4580,7 @@ pyrethrin I
 M  END
 $$$$
 Mevinphos
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  14 13  0  0  0  0  0  0  0  0999 V2000
     2.4750    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4613,7 +4613,7 @@ Mevinphos
 M  END
 $$$$
 metolachlor
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  19 19  0  0  0  0  0  0  0  0999 V2000
     5.3329   -2.0329    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4657,7 +4657,7 @@ metolachlor
 M  END
 $$$$
 haloxyfop-methyl
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  25 26  0  0  0  0  0  0  0  0999 V2000
    -4.2868   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4714,7 +4714,7 @@ haloxyfop-methyl
 M  END
 $$$$
 fluchloralin
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  23 23  0  0  0  0  0  0  0  0999 V2000
     0.7145   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4769,7 +4769,7 @@ common __
 
 $$$$
 Dicrotophos
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  15 14  0  0  0  0  0  0  0  0999 V2000
     3.3000    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4804,7 +4804,7 @@ Dicrotophos
 M  END
 $$$$
 Zineb
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  11  9  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 Zn  0  0  0  0  0 15  0  0  0  0  0  0
@@ -4833,7 +4833,7 @@ common __
 
 $$$$
 dimethirimol
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  15 15  0  0  0  0  0  0  0  0999 V2000
    -0.7145    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4869,7 +4869,7 @@ dimethirimol
 M  END
 $$$$
 2-[[4-Chloro-6-(ethylamino)-1,3,5-triazin-2-yl]amino]-2-methylpropanenitrile
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  16 16  0  0  0  0  0  0  0  0999 V2000
     1.4289    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4907,7 +4907,7 @@ $$$$
 M  END
 $$$$
 Tricyclazole
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  13 15  0  0  0  0  0  0  0  0999 V2000
     1.1933    1.9915    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4945,7 +4945,7 @@ common __
 
 $$$$
 ferbam
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  19 18  0  0  0  0  0  0  0  0999 V2000
     5.3329    5.5539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4988,7 +4988,7 @@ ferbam
 M  END
 $$$$
 Ziram
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  13 12  0  0  0  0  0  0  0  0999 V2000
     3.5014    0.8889    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5022,7 +5022,7 @@ common __
 
 $$$$
 tralomethrin
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  30 32  0  0  1  0  0  0  0  0999 V2000
    -3.1879   -6.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5093,7 +5093,7 @@ common __
 
 $$$$
 hydramethylnon
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  35 37  0  0  0  0  0  0  0  0999 V2000
    -0.8986   -1.8430    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5171,7 +5171,7 @@ hydramethylnon
 M  END
 $$$$
 triclopyr
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  14 14  0  0  0  0  0  0  0  0999 V2000
    -0.7145    3.7125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5205,7 +5205,7 @@ triclopyr
 M  END
 $$$$
 acifluorfen
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  24 25  0  0  0  0  0  0  0  0999 V2000
     1.4289    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5260,7 +5260,7 @@ acifluorfen
 M  END
 $$$$
 siduron
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  17 18  0  0  0  0  0  0  0  0999 V2000
     2.8579   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5301,7 +5301,7 @@ siduron
 M  END
 $$$$
 princep
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  13 13  0  0  0  0  0  0  0  0999 V2000
     1.4289    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5333,7 +5333,7 @@ princep
 M  END
 $$$$
 phenthoate
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  19 19  0  0  0  0  0  0  0  0999 V2000
    -2.1434    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5380,7 +5380,7 @@ common __
 
 $$$$
 Chlorpyrifos-Methyl
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  16 16  0  0  0  0  0  0  0  0999 V2000
    -0.7145    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5418,7 +5418,7 @@ Chlorpyrifos-Methyl
 M  END
 $$$$
 Acephate
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  10  9  0  0  0  0  0  0  0  0999 V2000
     1.9520   -0.5230    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5443,7 +5443,7 @@ Acephate
 M  END
 $$$$
 Methyl Parathion
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  16 16  0  0  0  0  0  0  0  0999 V2000
    -0.7145    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5482,7 +5482,7 @@ M  CHG  2  14   1  15  -1
 M  END
 $$$$
 Parathion
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  18 18  0  0  0  0  0  0  0  0999 V2000
    -1.4289    4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5525,7 +5525,7 @@ M  CHG  2  16   1  17  -1
 M  END
 $$$$
 Bendiocarb
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  16 17  0  0  0  0  0  0  0  0999 V2000
     2.1434   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5564,7 +5564,7 @@ Bendiocarb
 M  END
 $$$$
 tau-fluvalinate
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  35 37  0  0  1  0  0  0  0  0999 V2000
    -2.1434   -3.9336    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5645,7 +5645,7 @@ common __
 
 $$$$
 myclobutanil
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  20 21  0  0  0  0  0  0  0  0999 V2000
    -0.8866   -0.6204    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5695,7 +5695,7 @@ common __
 
 $$$$
 naphthalene
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  10 11  0  0  0  0  0  0  0  0999 V2000
    -0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5722,7 +5722,7 @@ naphthalene
 M  END
 $$$$
 Hepta
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  17 19  0  0  0  0  0  0  0  0999 V2000
     0.1278    0.0746    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
@@ -5764,7 +5764,7 @@ Hepta
 M  END
 $$$$
 24579-73-5
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  14 12  0  0  0  0  0  0  0  0999 V2000
     0.5496    0.1904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5799,7 +5799,7 @@ CAS# __
 
 $$$$
 cycloate
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  14 14  0  0  0  0  0  0  0  0999 V2000
     1.7309   -2.1730    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5833,7 +5833,7 @@ cycloate
 M  END
 $$$$
 silvex
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  15 15  0  0  0  0  0  0  0  0999 V2000
    -0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5869,7 +5869,7 @@ silvex
 M  END
 $$$$
 ancymidol
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  19 21  0  0  0  0  0  0  0  0999 V2000
     3.1257    0.7783    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5915,7 +5915,7 @@ ancymidol
 M  END
 $$$$
 primisulfuron-methyl
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  31 32  0  0  0  0  0  0  0  0999 V2000
     4.2868   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5984,7 +5984,7 @@ primisulfuron-methyl
 M  END
 $$$$
 sulprophos
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  18 18  0  0  0  0  0  0  0  0999 V2000
    -1.4289    4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6026,7 +6026,7 @@ sulprophos
 M  END
 $$$$
 difenzoquat
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  19 21  0  0  0  0  0  0  0  0999 V2000
     0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6073,7 +6073,7 @@ M  CHG  1  12   1
 M  END
 $$$$
 Methyl bromide
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
   2  1  0  0  0  0  0  0  0  0999 V2000
     0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6082,7 +6082,7 @@ Methyl bromide
 M  END
 $$$$
 InChI=1S/C12H11Cl2NO/c1-4-12(2,3)15-11(16)8-5-9(13)7-10(14)6-8/h1,5-7H,2-3H3,(H,15,16)
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  16 16  0  0  0  0  0  0  0  0999 V2000
     1.4289    4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6120,7 +6120,7 @@ InChI=1S/C12H11Cl2NO/c1-4-12(2,3)15-11(16)8-5-9(13)7-10(14)6-8/h1,5-7H,2-3H3,(H,
 M  END
 $$$$
 Cypermethrin
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  28 30  0  0  0  0  0  0  0  0999 V2000
     0.5432   -2.6053    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6184,7 +6184,7 @@ Cypermethrin
 M  END
 $$$$
 Mancozeb
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  22 18  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 Mn  0  0  0  0  0 15  0  0  0  0  0  0
@@ -6230,7 +6230,7 @@ Mancozeb
 M  END
 $$$$
 Azinphosmethyl
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  19 20  0  0  0  0  0  0  0  0999 V2000
    -2.8579    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6275,7 +6275,7 @@ Azinphosmethyl
 M  END
 $$$$
 Cyhexatin
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  20 22  0  0  0  0  0  0  0  0999 V2000
     1.5395    0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6323,7 +6323,7 @@ Cyhexatin
 M  END
 $$$$
 triallate
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  16 15  0  0  0  0  0  0  0  0999 V2000
     1.6500   -1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6360,7 +6360,7 @@ triallate
 M  END
 $$$$
 chloroallylchloride
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
   5  4  0  0  0  0  0  0  0  0999 V2000
     2.0625   -0.7145    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
@@ -6375,7 +6375,7 @@ chloroallylchloride
 M  END
 $$$$
 Electrum
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  12 12  0  0  0  0  0  0  0  0999 V2000
    -0.7145    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6408,7 +6408,7 @@ common __
 
 $$$$
 3-AT
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
   6  6  0  0  0  0  0  0  0  0999 V2000
     0.5678    1.9393    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6426,7 +6426,7 @@ $$$$
 M  END
 $$$$
 CG-1283
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  22 26  0  0  0  0  0  0  0  0999 V2000
    -0.1837   -0.2638    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
@@ -6480,7 +6480,7 @@ CG-1283
 M  END
 $$$$
 1-[2-(2,4-dichlorphenyl)-2-(2-propenyloxy)ethyl]-1H-imidazole
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  19 20  0  0  0  0  0  0  0  0999 V2000
     0.7145   -1.2375    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
@@ -6525,7 +6525,7 @@ $$$$
 M  END
 $$$$
 isopropylamine
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
   4  3  0  0  0  0  0  0  0  0999 V2000
     1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6538,7 +6538,7 @@ isopropylamine
 M  END
 $$$$
 Moxie
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  21 22  0  0  0  0  0  0  0  0999 V2000
     1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6587,7 +6587,7 @@ Moxie
 M  END
 $$$$
 Stam
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  13 13  0  0  0  0  0  0  0  0999 V2000
    -0.7145    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6622,7 +6622,7 @@ common __
 
 $$$$
 thiodicarb
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  19 18  0  0  0  0  0  0  0  0999 V2000
     2.2836    4.6184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6665,7 +6665,7 @@ thiodicarb
 M  END
 $$$$
 triforine
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  22 22  0  0  0  0  0  0  0  0999 V2000
    -0.7145    3.7125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6718,7 +6718,7 @@ common __
 
 $$$$
 Fenoxycarb
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  22 23  0  0  0  0  0  0  0  0999 V2000
    -5.0013   -7.0125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6769,7 +6769,7 @@ Fenoxycarb
 M  END
 $$$$
 Apollo
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  20 22  0  0  0  0  0  0  0  0999 V2000
     0.7145   -2.8875    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
@@ -6817,7 +6817,7 @@ Apollo
 M  END
 $$$$
 dodine
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  20 18  0  0  0  0  0  0  0  0999 V2000
     0.4125    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6862,7 +6862,7 @@ M  CHG  2   3  -1  19   1
 M  END
 $$$$
 fenpropathrin
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  26 28  0  0  0  0  0  0  0  0999 V2000
     2.3629   -1.6427    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6922,7 +6922,7 @@ fenpropathrin
 M  END
 $$$$
 pendimethalin
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  20 20  0  0  0  0  0  0  0  0999 V2000
     0.7145    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6969,7 +6969,7 @@ M  CHG  4  15   1  16  -1  18   1  19  -1
 M  END
 $$$$
 Dieldrin
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  19 23  0  0  1  0  0  0  0  0999 V2000
    -0.2787    0.5950    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
@@ -7017,7 +7017,7 @@ Dieldrin
 M  END
 $$$$
 InChI=1S/C48H72O14.C47H70O14/c1-11-25(2)43-28(5)17-18-47(62-43)23-34-20-33(61-47)16-15-27(4)42(26(3)13-12-14-32-24-55-45-40(49)29(6)19-35(46(51)58-34)48(32,45)52)59-39-22-37(54-10)44(31(8)57-39)60-38-21-36(53-9)41(50)30(7)56-38;1-24(2)41-27(5)16-17-46(61-41)22-33-19-32(60-46)15-14-26(4)42(25(3)12-11-13-31-23-54-44-39(48)28(6)18-34(45(50)57-33)47(31,44)51)58-38-21-36(53-10)43(30(8)56-38)59-37-20-35(52-9)40(49)29(7)55-37/h12-15,17-19,25-26,28,30-31,33-45,49-50,52H,11,16,20-24H2,1-10H3;11-14,16-18,24-25,27,29-30,32-44,48-49,51H,15,19-23H2,1-10H3/b13-12+,27-15+,32-14+;12-11+,26-14+,31-13+/t25-,26-,28-,30-,31-,33+,34-,35-,36-,37-,38-,39-,40+,41-,42-,43+,44-,45+,47+,48+;25-,27-,29-,30-,32+,33-,34-,35-,36-,37-,38-,39+,40-,41+,42-,43-,44+,46+,47+/m00/s1
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
 166178  0  0  0  0  0  0  0  0999 V2000
     4.6448    1.2445    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7367,7 +7367,7 @@ InChI=1S/C48H72O14.C47H70O14/c1-11-25(2)43-28(5)17-18-47(62-43)23-34-20-33(61-47
 M  END
 $$$$
 fenfuram
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  15 16  0  0  0  0  0  0  0  0999 V2000
     1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7404,7 +7404,7 @@ fenfuram
 M  END
 $$$$
 Methomyl
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  10  9  0  0  0  0  0  0  0  0999 V2000
     3.3000    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7429,7 +7429,7 @@ Methomyl
 M  END
 $$$$
 carboxin
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  16 17  0  0  0  0  0  0  0  0999 V2000
     1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7468,7 +7468,7 @@ carboxin
 M  END
 $$$$
 Terbacil
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  14 14  0  0  0  0  0  0  0  0999 V2000
     0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7505,7 +7505,7 @@ common __
 
 $$$$
 NAA
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  14 15  0  0  0  0  0  0  0  0999 V2000
     0.7145   -3.7125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7540,7 +7540,7 @@ NAA
 M  END
 $$$$
 Anilazine
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  16 17  0  0  0  0  0  0  0  0999 V2000
     2.1434   -0.4125    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
@@ -7579,7 +7579,7 @@ Anilazine
 M  END
 $$$$
 Fenamiphos
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  19 19  0  0  0  0  0  0  0  0999 V2000
    -1.4289    4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7623,7 +7623,7 @@ Fenamiphos
 M  END
 $$$$
 thiobencarb
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  16 16  0  0  0  0  0  0  0  0999 V2000
     2.0329   -1.0461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7661,7 +7661,7 @@ thiobencarb
 M  END
 $$$$
 MCPB
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  15 15  0  0  0  0  0  0  0  0999 V2000
     0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7697,7 +7697,7 @@ MCPB
 M  END
 $$$$
 4-(dimethylamino)-3-methylphenyl methylcarbamate
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  15 15  0  0  0  0  0  0  0  0999 V2000
    -0.7145    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7733,7 +7733,7 @@ $$$$
 M  END
 $$$$
 fenvalerate
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  30 32  0  0  0  0  0  0  0  0999 V2000
     0.7145   -2.6664    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7801,7 +7801,7 @@ fenvalerate
 M  END
 $$$$
 2-Methyl-4-chlorophenoxyacetic acid
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  13 13  0  0  0  0  0  0  0  0999 V2000
     0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7833,7 +7833,7 @@ $$$$
 M  END
 $$$$
 bifenox
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  22 23  0  0  0  0  0  0  0  0999 V2000
     1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7884,7 +7884,7 @@ bifenox
 M  END
 $$$$
 2,6-Dichlorobenzonitrile
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  10 10  0  0  0  0  0  0  0  0999 V2000
     0.7145    2.0625    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
@@ -7910,7 +7910,7 @@ $$$$
 M  END
 $$$$
 Barban
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  16 16  0  0  0  0  0  0  0  0999 V2000
    -2.1434   -2.0625    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
@@ -7948,7 +7948,7 @@ Barban
 M  END
 $$$$
 2-(3,4-dichlorophenyl)-4-methyl-1,2,4-oxadiazolidine-3,5-dione
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  16 17  0  0  0  0  0  0  0  0999 V2000
     0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7987,7 +7987,7 @@ $$$$
 M  END
 $$$$
 retard
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
   8  8  0  0  0  0  0  0  0  0999 V2000
     0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8009,7 +8009,7 @@ retard
 M  END
 $$$$
 atrazine
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  14 14  0  0  0  0  0  0  0  0999 V2000
     1.4289    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8043,7 +8043,7 @@ atrazine
 M  END
 $$$$
 secbumeton
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  16 16  0  0  0  0  0  0  0  0999 V2000
     1.4289    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8081,7 +8081,7 @@ secbumeton
 M  END
 $$$$
 tebuthiuron
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  15 15  0  0  0  0  0  0  0  0999 V2000
     1.9967    3.5893    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8117,7 +8117,7 @@ tebuthiuron
 M  END
 $$$$
 Diquat dibromide
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  16 16  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
@@ -8155,7 +8155,7 @@ Diquat dibromide
 M  END
 $$$$
 1,3,5-Triazine-2,4(1H,3H)-dione, 3-cyclohexyl-6-(dimethylamino)-1-methyl-
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  18 19  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8198,7 +8198,7 @@ $$$$
 M  END
 $$$$
 fenarimol
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  22 24  0  0  0  0  0  0  0  0999 V2000
    -0.1105   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8250,7 +8250,7 @@ fenarimol
 M  END
 $$$$
 1,3,5-Triazine-2,4-diamine, N,N'-diethyl-6-(methylthio)-
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  14 14  0  0  0  0  0  0  0  0999 V2000
     0.0000    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8284,7 +8284,7 @@ $$$$
 M  END
 $$$$
 norflurazon
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  20 21  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8331,7 +8331,7 @@ norflurazon
 M  END
 $$$$
 chinomethionat
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  15 17  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8369,7 +8369,7 @@ chinomethionat
 M  END
 $$$$
 Neburon
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  17 17  0  0  0  0  0  0  0  0999 V2000
     0.7145   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8412,7 +8412,7 @@ common __
 
 $$$$
 Chlordimeform
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  13 13  0  0  0  0  0  0  0  0999 V2000
    -0.7145    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8444,7 +8444,7 @@ Chlordimeform
 M  END
 $$$$
 Terbufos
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  15 14  0  0  0  0  0  0  0  0999 V2000
    -2.0329   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8482,7 +8482,7 @@ common __
 
 $$$$
 isazofos
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  18 18  0  0  0  0  0  0  0  0999 V2000
    -1.5757    4.0018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8524,7 +8524,7 @@ isazofos
 M  END
 $$$$
 Bensulide
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  23 23  0  0  0  0  0  0  0  0999 V2000
    -1.4289    7.4250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8576,7 +8576,7 @@ Bensulide
 M  END
 $$$$
 Procymidone
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  18 20  0  0  0  0  0  0  0  0999 V2000
     0.6171   -3.9114    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8620,7 +8620,7 @@ Procymidone
 M  END
 $$$$
 N-dimethylaminosuccinamic acid
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  11 10  0  0  0  0  0  0  0  0999 V2000
     2.0625    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8647,7 +8647,7 @@ N-dimethylaminosuccinamic acid
 M  END
 $$$$
 5-amino-4-chloro-2-phenylpyridazin-3(2H)-one
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  15 16  0  0  0  0  0  0  0  0999 V2000
     0.7145   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8684,7 +8684,7 @@ $$$$
 M  END
 $$$$
 Tribufos
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  17 16  0  0  0  0  0  0  0  0999 V2000
    -3.9039    0.6039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8723,7 +8723,7 @@ Tribufos
 M  END
 $$$$
 Borea
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  14 14  0  0  0  0  0  0  0  0999 V2000
     0.0000    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8760,7 +8760,7 @@ common __
 
 $$$$
 logran
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  26 27  0  0  0  0  0  0  0  0999 V2000
    -0.7145   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8822,7 +8822,7 @@ common __
 
 $$$$
 picloram
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  13 13  0  0  0  0  0  0  0  0999 V2000
     0.7145    2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8854,7 +8854,7 @@ picloram
 M  END
 $$$$
 imazapyr
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  19 20  0  0  0  0  0  0  0  0999 V2000
     2.0735   -0.7959    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8899,7 +8899,7 @@ imazapyr
 M  END
 $$$$
 bromoxynil octanoate
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  20 20  0  0  0  0  0  0  0  0999 V2000
     1.4289   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8945,7 +8945,7 @@ bromoxynil octanoate
 M  END
 $$$$
 bentazone
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  16 17  0  0  0  0  0  0  0  0999 V2000
    -2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8984,7 +8984,7 @@ bentazone
 M  END
 $$$$
 Methamidophos
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
   7  6  0  0  0  0  0  0  0  0999 V2000
     2.4750   -1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -9006,7 +9006,7 @@ common __
 
 $$$$
 cinmethylin
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  20 22  0  0  0  0  0  0  0  0999 V2000
     1.6233   -2.9084    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -9054,7 +9054,7 @@ cinmethylin
 M  END
 $$$$
 fluridone
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  24 26  0  0  0  0  0  0  0  0999 V2000
     0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -9110,7 +9110,7 @@ fluridone
 M  END
 $$$$
 flumetsulam
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  22 24  0  0  0  0  0  0  0  0999 V2000
     4.0668    2.3479    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -9162,7 +9162,7 @@ flumetsulam
 M  END
 $$$$
 Phosmet
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  19 20  0  0  0  0  0  0  0  0999 V2000
    -3.9284   -2.1269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -9207,7 +9207,7 @@ Phosmet
 M  END
 $$$$
 prometon
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  16 16  0  0  0  0  0  0  0  0999 V2000
     0.0000    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -9245,7 +9245,7 @@ prometon
 M  END
 $$$$
 arsenic acid
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
   5  4  0  0  0  0  0  0  0  0999 V2000
     0.8250   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -9260,7 +9260,7 @@ arsenic acid
 M  END
 $$$$
 Benomyl
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  21 22  0  0  0  0  0  0  0  0999 V2000
     2.7287   -3.5884    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -9309,7 +9309,7 @@ Benomyl
 M  END
 $$$$
 Carbophos
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  19 18  0  0  0  0  0  0  0  0999 V2000
    -0.1914   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -9352,7 +9352,7 @@ Carbophos
 M  END
 $$$$
 benodanil
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  16 17  0  0  0  0  0  0  0  0999 V2000
     1.4289   -1.6500    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
@@ -9391,7 +9391,7 @@ benodanil
 M  END
 $$$$
 clomazone
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  16 17  0  0  0  0  0  0  0  0999 V2000
     1.4847   -0.6860    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -9430,7 +9430,7 @@ clomazone
 M  END
 $$$$
 toxaphene
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  18 19  0  0  0  0  0  0  0  0999 V2000
    -0.3964   -3.3866    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
@@ -9473,7 +9473,7 @@ toxaphene
 M  END
 $$$$
 S-ethyl di-propylthiocarbamate
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  12 11  0  0  0  0  0  0  0  0999 V2000
     1.2375   -2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -9502,7 +9502,7 @@ S-ethyl di-propylthiocarbamate
 M  END
 $$$$
 Disulfoton
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  14 13  0  0  0  0  0  0  0  0999 V2000
     5.3625   -3.5724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -9535,7 +9535,7 @@ Disulfoton
 M  END
 $$$$
 piperalin
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  21 22  0  0  0  0  0  0  0  0999 V2000
     2.1434   -5.3625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -9584,7 +9584,7 @@ piperalin
 M  END
 $$$$
 DL-Phosphinothricin
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  12 10  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
@@ -9616,7 +9616,7 @@ common __
 
 $$$$
 Fensulfothion
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  18 18  0  0  0  0  0  0  0  0999 V2000
    -1.4289    4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -9658,7 +9658,7 @@ Fensulfothion
 M  END
 $$$$
 perfluidone
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  24 25  0  0  0  0  0  0  0  0999 V2000
     0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -9713,7 +9713,7 @@ perfluidone
 M  END
 $$$$
 N-butyl-N-ethyl-2,6-dinitro-4-trifluoromethylaniline
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  23 23  0  0  0  0  0  0  0  0999 V2000
     1.7309   -2.1730    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -9766,7 +9766,7 @@ M  CHG  4  14   1  15  -1  21   1  22  -1
 M  END
 $$$$
 Vinclozolin
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  18 19  0  0  0  0  0  0  0  0999 V2000
     0.1624   -0.6244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -9809,7 +9809,7 @@ Vinclozolin
 M  END
 $$$$
 oxalate
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
   6  5  0  0  0  0  0  0  0  0999 V2000
     0.8250    1.4289    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -9827,7 +9827,7 @@ M  CHG  2   1  -1   5  -1
 M  END
 $$$$
 Phorate
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  13 12  0  0  0  0  0  0  0  0999 V2000
     5.3625   -2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -9858,7 +9858,7 @@ Phorate
 M  END
 $$$$
 bromoxynil butyrate
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  16 16  0  0  0  0  0  0  0  0999 V2000
     0.0000   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -9899,7 +9899,7 @@ common __
 
 $$$$
 3-(2,2-Dichloroethenyl)-2,2-dimethylcyclopropanecarboxylic acid (3-phenoxyphenyl)methyl ester
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  26 28  0  0  0  0  0  0  0  0999 V2000
     4.6168   -4.5940    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -9959,7 +9959,7 @@ $$$$
 M  END
 $$$$
 Dimethazan
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.2375   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -9970,7 +9970,7 @@ Dimethazan
 M  END
 $$$$
 marmer
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  14 14  0  0  0  0  0  0  0  0999 V2000
    -0.7145    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -10004,7 +10004,7 @@ marmer
 M  END
 $$$$
 mefluidide
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  20 20  0  0  0  0  0  0  0  0999 V2000
     0.0000    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -10050,7 +10050,7 @@ mefluidide
 M  END
 $$$$
 acrolein
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
   4  3  0  0  0  0  0  0  0  0999 V2000
     2.0625   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -10063,7 +10063,7 @@ acrolein
 M  END
 $$$$
 fluazifop-P-butyl
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  27 28  0  0  0  0  0  0  0  0999 V2000
    -5.0013   -7.0125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -10124,7 +10124,7 @@ fluazifop-P-butyl
 M  END
 $$$$
 pebulate
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  13 12  0  0  0  0  0  0  0  0999 V2000
     2.2836    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -10155,7 +10155,7 @@ pebulate
 M  END
 $$$$
 Phenmedipham
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  22 23  0  0  0  0  0  0  0  0999 V2000
    -0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -10206,7 +10206,7 @@ Phenmedipham
 M  END
 $$$$
 diflubenzuron
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  21 22  0  0  0  0  0  0  0  0999 V2000
    -0.7145   -3.7125    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
@@ -10255,7 +10255,7 @@ diflubenzuron
 M  END
 $$$$
 Paraquat
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  16 15  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
@@ -10292,7 +10292,7 @@ Paraquat
 M  END
 $$$$
 1,2-dichlorpropan
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
   5  4  0  0  0  0  0  0  0  0999 V2000
     2.0625   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -10307,7 +10307,7 @@ $$$$
 M  END
 $$$$
 dinitramine
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  22 22  0  0  0  0  0  0  0  0999 V2000
     0.0000    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -10358,7 +10358,7 @@ M  CHG  4  13   1  14  -1  20   1  21  -1
 M  END
 $$$$
 imazethapyr
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  21 22  0  0  0  0  0  0  0  0999 V2000
    -1.3022   -1.2269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -10407,7 +10407,7 @@ imazethapyr
 M  END
 $$$$
 terbutryn
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  16 16  0  0  0  0  0  0  0  0999 V2000
     1.4289    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -10445,7 +10445,7 @@ terbutryn
 M  END
 $$$$
 Thiram
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  12 11  0  0  0  0  0  0  0  0999 V2000
     1.0461    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -10474,7 +10474,7 @@ Thiram
 M  END
 $$$$
 permite
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  12 12  0  0  0  0  0  0  0  0999 V2000
     0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -10504,7 +10504,7 @@ permite
 M  END
 $$$$
 Dalapon
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
   7  6  0  0  0  0  0  0  0  0999 V2000
     1.6500    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -10523,7 +10523,7 @@ Dalapon
 M  END
 $$$$
 thidiazuron
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  15 16  0  0  0  0  0  0  0  0999 V2000
     4.1801   -1.7116    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -10560,7 +10560,7 @@ thidiazuron
 M  END
 $$$$
 oxyfluorfen
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  24 25  0  0  0  0  0  0  0  0999 V2000
     2.8579    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -10615,7 +10615,7 @@ oxyfluorfen
 M  END
 $$$$
 dimethipin
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  12 12  0  0  0  0  0  0  0  0999 V2000
     2.1434    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -10645,7 +10645,7 @@ dimethipin
 M  END
 $$$$
 imazaquin
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  23 25  0  0  1  0  0  0  0  0999 V2000
    -1.6028   -0.5298    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -10702,7 +10702,7 @@ common __
 
 $$$$
 fomesafen
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  28 29  0  0  0  0  0  0  0  0999 V2000
     1.4289    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -10765,7 +10765,7 @@ fomesafen
 M  END
 $$$$
 MSMA
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
   6  4  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 Na  0  0  0  0  0 15  0  0  0  0  0  0
@@ -10781,7 +10781,7 @@ MSMA
 M  END
 $$$$
 3-amino-2,5-dichlorobenzoic acid
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  12 12  0  0  0  0  0  0  0  0999 V2000
     0.7145    2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -10811,7 +10811,7 @@ $$$$
 M  END
 $$$$
 Stirofos
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  19 19  0  0  0  0  0  0  0  0999 V2000
     2.1434    4.5375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -10855,7 +10855,7 @@ Stirofos
 M  END
 $$$$
 ethyl hydrogen carbamoylphosphonate
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
   9  8  0  0  0  0  0  0  0  0999 V2000
     1.6500    2.8579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -10878,7 +10878,7 @@ ethyl hydrogen carbamoylphosphonate
 M  END
 $$$$
 Oxycarboxin
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  18 19  0  0  0  0  0  0  0  0999 V2000
     0.0000   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -10924,7 +10924,7 @@ common __
 
 $$$$
 Telar
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  23 24  0  0  0  0  0  0  0  0999 V2000
     3.5724   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -10980,7 +10980,7 @@ common __
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  24 26  0  0  0  0  0  0  0  0999 V2000
    -1.5258    0.0076    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -11048,7 +11048,7 @@ CLK001B04
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  14 14  0  0  0  0  0  0  0  0999 V2000
     0.1038   -0.4751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -11095,7 +11095,7 @@ CLK001B06
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  13 13  0  0  0  0  0  0  0  0999 V2000
    -1.1703    0.1692    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -11140,7 +11140,7 @@ CLK001C05
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  15 15  0  0  0  0  0  0  0  0999 V2000
    -0.0584   -0.0097    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -11189,7 +11189,7 @@ CLK001C06
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  29 32  0  0  0  0  0  0  0  0999 V2000
     0.4004    0.1968    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
@@ -11268,7 +11268,7 @@ CLK001D05
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  22 24  0  0  0  0  0  0  0  0999 V2000
    -0.1586   -0.0552    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -11332,7 +11332,7 @@ CLK001D06
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  11 11  0  0  0  0  0  0  0  0999 V2000
     6.9542  -21.1875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -11372,7 +11372,7 @@ CLK001D07
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  31 35  0  0  0  0  0  0  0  0999 V2000
    -1.3837   -0.8832    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -11456,7 +11456,7 @@ CLK001D09
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  28 31  0  0  0  0  0  0  0  0999 V2000
     1.5975   -0.3529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -11533,7 +11533,7 @@ CLK001D10
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  19 19  0  0  0  0  0  0  0  0999 V2000
     1.6879   -0.4676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -11589,7 +11589,7 @@ CLK001E05
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  26 28  0  0  0  0  0  0  0  0999 V2000
     1.6310    0.9276    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -11661,7 +11661,7 @@ CLK001E07
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  18 18  0  0  0  0  0  0  0  0999 V2000
     3.0085   -0.0458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -11715,7 +11715,7 @@ CLK001F05
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  22 23  0  0  0  0  0  0  0  0999 V2000
    -0.2953    0.1266    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -11778,7 +11778,7 @@ CLK001G05
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  18 20  0  0  0  0  0  0  0  0999 V2000
    -1.0406    0.7654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -11834,7 +11834,7 @@ CLK001G07
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  17 16  0  0  0  0  0  0  0  0999 V2000
     0.2018   -0.0723    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -11885,7 +11885,7 @@ CLK001G08
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  14 14  0  0  0  0  0  0  0  0999 V2000
    -0.1563    0.4391    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -11931,7 +11931,7 @@ CLK001G09
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  19 19  0  0  0  0  0  0  0  0999 V2000
     2.5498   -0.0915    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -11987,7 +11987,7 @@ CLK002B07
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  20 20  0  0  0  0  0  0  0  0999 V2000
     2.3591   -0.0494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -12045,7 +12045,7 @@ CLK002C03
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  20 20  0  0  0  0  0  0  0  0999 V2000
     1.7488   -0.0685    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -12103,7 +12103,7 @@ CLK002D03
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  21 21  0  0  0  0  0  0  0  0999 V2000
     1.5627   -0.1673    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -12163,7 +12163,7 @@ CLK002D05
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  32 32  0  0  0  0  0  0  0  0999 V2000
    -2.8562   -0.4219    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
@@ -12245,7 +12245,7 @@ CLK002F05
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  24 26  0  0  0  0  0  0  0  0999 V2000
    -0.7955    0.9173    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -12313,7 +12313,7 @@ CLK003B06
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  19 19  0  0  0  0  0  0  0  0999 V2000
     1.6879   -0.4676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -12369,7 +12369,7 @@ CLK003D03
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  16 17  0  0  0  0  0  0  0  0999 V2000
    -0.7328   -0.3353    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -12420,7 +12420,7 @@ CLK003D07
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  17 18  0  0  0  0  0  0  0  0999 V2000
     0.5734    0.0622    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -12474,7 +12474,7 @@ CLK004D09
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  25 27  0  0  0  0  0  0  0  0999 V2000
    -1.5777    0.2433    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -12544,7 +12544,7 @@ CLK005A06
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  23 25  0  0  0  0  0  0  0  0999 V2000
    -0.9654    0.8811    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -12610,7 +12610,7 @@ CLK005C05
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  26 28  0  0  0  0  0  0  0  0999 V2000
    -1.2188    1.0094    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -12682,7 +12682,7 @@ CLK005C07
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  25 27  0  0  0  0  0  0  0  0999 V2000
    -0.8421    0.7562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -12752,7 +12752,7 @@ CLK005E07
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  16 17  0  0  0  0  0  0  0  0999 V2000
    -0.9794   -0.1033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -12803,7 +12803,7 @@ CLK005F04
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  28 30  0  0  0  0  0  0  0  0999 V2000
     1.1469    0.2773    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -12879,7 +12879,7 @@ CLK005H02
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  23 24  0  0  0  0  0  0  0  0999 V2000
    -1.3361   -1.4718    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -12944,7 +12944,7 @@ CLK006E10
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  32 35  0  0  0  0  0  0  0  0999 V2000
    -0.2176   -1.1986    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -13029,7 +13029,7 @@ CLK006G02
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  24 26  0  0  0  0  0  0  0  0999 V2000
     0.8319   -0.1381    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
@@ -13097,7 +13097,7 @@ CLK007A08
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  26 28  0  0  0  0  0  0  0  0999 V2000
     0.7940   -0.4384    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
@@ -13169,7 +13169,7 @@ CLK007C04
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  26 28  0  0  0  0  0  0  0  0999 V2000
     0.0034   -0.9562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -13241,7 +13241,7 @@ CLK007E10
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  24 26  0  0  0  0  0  0  0  0999 V2000
    -1.8120   -0.5484    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -13309,7 +13309,7 @@ CLK008C05
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  22 22  0  0  0  0  0  0  0  0999 V2000
    -3.5470    1.2026    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -13371,7 +13371,7 @@ CLK009A05
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  15 13  0  0  0  0  0  0  0  0999 V2000
     1.1603    1.2489    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
@@ -13417,7 +13417,7 @@ CLK009B08
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  26 27  0  0  0  0  0  0  0  0999 V2000
    -1.6648    3.4709    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -13488,7 +13488,7 @@ CLK009D05
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  29 32  0  0  0  0  0  0  0  0999 V2000
     2.4927   -0.6764    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -13567,7 +13567,7 @@ CLK010A11
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  26 27  0  0  0  0  0  0  0  0999 V2000
     2.8500   -1.9125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -13638,7 +13638,7 @@ CLK010D11
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  23 24  0  0  0  0  0  0  0  0999 V2000
     2.8500   -1.9125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -13703,7 +13703,7 @@ CLK011A06
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  13 13  0  0  0  0  0  0  0  0999 V2000
     2.2451    4.6202    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -13747,7 +13747,7 @@ CLK011A10
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  22 23  0  0  0  0  0  0  0  0999 V2000
     5.9450   -0.4321    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
@@ -13811,7 +13811,7 @@ CLK011C06
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  20 21  0  0  0  0  0  0  0  0999 V2000
     3.6000   -1.1500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -13870,7 +13870,7 @@ CLK013A04
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  19 20  0  0  0  0  0  0  0  0999 V2000
     2.8875   -0.7250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -13927,7 +13927,7 @@ CLK013D04
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  32 35  0  0  0  0  0  0  0  0999 V2000
     1.5701   -0.8185    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14012,7 +14012,7 @@ CLK013F06
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  28 30  0  0  0  0  0  0  0  0999 V2000
     2.4095   -1.9973    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14088,7 +14088,7 @@ CLK014D06
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  24 26  0  0  0  0  0  0  0  0999 V2000
     1.5659   -0.8163    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14156,7 +14156,7 @@ CLK015A08
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  24 26  0  0  0  0  0  0  0  0999 V2000
     2.1093   -0.2288    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14224,7 +14224,7 @@ CLK015D05
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  25 27  0  0  0  0  0  0  0  0999 V2000
     2.1097   -0.2289    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14294,7 +14294,7 @@ CLK015F04
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  15 15  0  0  0  0  0  0  0  0999 V2000
    -0.3922    0.0724    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
@@ -14343,7 +14343,7 @@ CLK015F05
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  21 23  0  0  0  0  0  0  0  0999 V2000
     1.5674   -0.8171    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14405,7 +14405,7 @@ CLK016E03
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  33 36  0  0  0  0  0  0  0  0999 V2000
     2.4521   -2.5208    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14492,7 +14492,7 @@ CLK017A03
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  30 33  0  0  0  0  0  0  0  0999 V2000
     2.4522   -2.5210    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14573,7 +14573,7 @@ CLK017A04
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  30 34  0  0  0  0  0  0  0  0999 V2000
    -0.6119   -2.2125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14655,7 +14655,7 @@ CLK017B10
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  27 30  0  0  0  0  0  0  0  0999 V2000
     2.7819   -2.5207    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14730,7 +14730,7 @@ CLK017D04
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  27 30  0  0  0  0  0  0  0  0999 V2000
     2.0672   -2.1176    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
@@ -14805,7 +14805,7 @@ CLK017E03
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  30 33  0  0  0  0  0  0  0  0999 V2000
     2.7817   -2.5205    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14886,7 +14886,7 @@ CLK017F02
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  23 24  0  0  0  0  0  0  0  0999 V2000
     2.5005   -2.9581    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14951,7 +14951,7 @@ CLK018C03
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  16 16  0  0  0  0  0  0  0  0999 V2000
    -0.5625   -1.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -15001,7 +15001,7 @@ CLK019B05
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  17 18  0  0  0  0  0  0  0  0999 V2000
     6.3875   -3.5542    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -15054,7 +15054,7 @@ CLK019E05
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  27 30  0  0  0  0  0  0  0  0999 V2000
     6.1354   -0.1676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -15129,7 +15129,7 @@ CLK019F03
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  25 27  0  0  0  0  0  0  0  0999 V2000
     1.4500   -1.4542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -15199,7 +15199,7 @@ CLK019F05
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  25 27  0  0  0  0  0  0  0  0999 V2000
     5.5321    3.2816    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -15269,7 +15269,7 @@ CLK020D06
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  18 18  0  0  0  0  0  0  0  0999 V2000
     5.5454    1.7277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -15323,7 +15323,7 @@ CLK020G06
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  20 21  0  0  0  0  0  0  0  0999 V2000
     5.7440    1.2264    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -15382,7 +15382,7 @@ CLK020H07
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  18 19  0  0  0  0  0  0  0  0999 V2000
     2.3281   -0.4290    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -15437,7 +15437,7 @@ CLK020H11
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  20 22  0  0  0  0  0  0  0  0999 V2000
     0.4719    1.5254    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -15497,7 +15497,7 @@ CLK021C09
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  19 21  0  0  0  0  0  0  0  0999 V2000
     3.6611    2.0207    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -15555,7 +15555,7 @@ CLK021D07
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  19 21  0  0  0  0  0  0  0  0999 V2000
     7.3934    2.6477    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -15613,7 +15613,7 @@ CLK021D08
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  19 21  0  0  0  0  0  0  0  0999 V2000
     3.9371    2.9241    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -15671,7 +15671,7 @@ CLK021F09
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  20 22  0  0  0  0  0  0  0  0999 V2000
     0.4719    1.5254    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -15731,7 +15731,7 @@ CLK021H07
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  23 24  0  0  0  0  0  0  0  0999 V2000
     6.1612    1.3009    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -15796,7 +15796,7 @@ CLK022B09
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  21 22  0  0  0  0  0  0  0  0999 V2000
     6.2162    2.7026    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -15857,7 +15857,7 @@ CLK022C08
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  23 25  0  0  0  0  0  0  0  0999 V2000
     4.4846    0.5726    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -15923,7 +15923,7 @@ CLK022F05
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  20 21  0  0  0  0  0  0  0  0999 V2000
     9.9770    0.8337    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -15982,7 +15982,7 @@ CLK022G05
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  23 24  0  0  0  0  0  0  0  0999 V2000
     4.3221    0.9991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16047,7 +16047,7 @@ CLK022G06
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  19 19  0  0  0  0  0  0  0  0999 V2000
     3.7151    2.0018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16103,7 +16103,7 @@ CLK022H02
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  29 32  0  0  0  0  0  0  0  0999 V2000
     1.2602    0.1168    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16182,7 +16182,7 @@ CLK023G04
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  30 33  0  0  0  0  0  0  0  0999 V2000
     0.3268   -0.5882    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16263,7 +16263,7 @@ CLK023G10
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  26 27  0  0  0  0  0  0  0  0999 V2000
    -0.9976   -0.4591    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16334,7 +16334,7 @@ CLK023G11
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  28 29  0  0  0  0  0  0  0  0999 V2000
    -0.6983   -1.0939    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16409,7 +16409,7 @@ CLK024B02
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  24 26  0  0  0  0  0  0  0  0999 V2000
     0.9586    0.3024    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16477,7 +16477,7 @@ CLK025A05
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  25 27  0  0  0  0  0  0  0  0999 V2000
     1.3149    0.9019    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16547,7 +16547,7 @@ CLK025B05
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  27 29  0  0  0  0  0  0  0  0999 V2000
     1.1818   -0.7077    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16621,7 +16621,7 @@ CLK025C04
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  26 28  0  0  0  0  0  0  0  0999 V2000
     2.0322    0.8975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16693,7 +16693,7 @@ CLK025D04
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  22 23  0  0  0  0  0  0  0  0999 V2000
    -3.8678    0.4744    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16756,7 +16756,7 @@ CLK025E02
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  23 25  0  0  0  0  0  0  0  0999 V2000
     1.1963    0.4263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16822,7 +16822,7 @@ CLK025E03
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  19 20  0  0  0  0  0  0  0  0999 V2000
    -2.4818   -1.4850    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16879,7 +16879,7 @@ CLK025G04
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  16 17  0  0  0  0  0  0  0  0999 V2000
    -0.2581    0.0688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16930,7 +16930,7 @@ CLK025H02
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  28 30  0  0  0  0  0  0  0  0999 V2000
     1.3129   -0.8008    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -17006,7 +17006,7 @@ CLK025H03
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  26 28  0  0  0  0  0  0  0  0999 V2000
     1.3158    0.3024    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -17079,7 +17079,7 @@ CLK025H04
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  25 27  0  0  0  0  0  0  0  0999 V2000
     1.7591   -0.8092    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -17149,7 +17149,7 @@ CLK025H05
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  14 15  0  0  0  0  0  0  0  0999 V2000
    -1.3189    0.6744    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -17196,7 +17196,7 @@ CLK026D11
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  14 15  0  0  0  0  0  0  0  0999 V2000
    -0.8084    0.0575    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
@@ -17243,7 +17243,7 @@ CLK026H11
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  20 21  0  0  0  0  0  0  0  0999 V2000
     1.8150   -0.7184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -17302,7 +17302,7 @@ CLK027C10
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  32 34  0  0  0  0  0  0  0  0999 V2000
    -2.1370   -0.1887    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -17386,7 +17386,7 @@ CLK028C06
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  28 30  0  0  0  0  0  0  0  0999 V2000
     2.0316    0.8937    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -17462,7 +17462,7 @@ CLK028C09
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  27 29  0  0  0  0  0  0  0  0999 V2000
     1.3131    0.3025    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -17536,7 +17536,7 @@ CLK028D09
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  27 30  0  0  0  0  0  0  0  0999 V2000
     1.4064    0.8391    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -17611,7 +17611,7 @@ CLK028F06
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  27 30  0  0  0  0  0  0  0  0999 V2000
     1.4064    0.8391    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -17686,7 +17686,7 @@ CLK029A05
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  26 29  0  0  0  0  0  0  0  0999 V2000
    -4.7353    5.0318    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -17759,7 +17759,7 @@ CLK029B05
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  28 31  0  0  0  0  0  0  0  0999 V2000
    -4.7482    5.0455    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -17836,7 +17836,7 @@ CLK029C05
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  26 29  0  0  0  0  0  0  0  0999 V2000
    -4.7348    5.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -17909,7 +17909,7 @@ CLK029D05
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  26 29  0  0  0  0  0  0  0  0999 V2000
    -4.7353    5.0318    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -17982,7 +17982,7 @@ CLK029D06
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  28 31  0  0  0  0  0  0  0  0999 V2000
    -4.7614    5.0595    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -18059,7 +18059,7 @@ CLK029E05
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  24 26  0  0  0  0  0  0  0  0999 V2000
    -1.1649    2.3882    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -18127,7 +18127,7 @@ CLK029E10
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  27 30  0  0  0  0  0  0  0  0999 V2000
    -4.7348    5.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -18202,7 +18202,7 @@ CLK029F06
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  25 28  0  0  0  0  0  0  0  0999 V2000
    -4.7353    5.0318    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -18273,7 +18273,7 @@ CLK029G05
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  26 28  0  0  0  0  0  0  0  0999 V2000
    -1.1649    2.3882    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -18345,7 +18345,7 @@ CLK030H08
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  29 31  0  0  0  0  0  0  0  0999 V2000
    -1.1625    2.3833    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -18423,7 +18423,7 @@ CLK031C05
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  19 21  0  0  0  0  0  0  0  0999 V2000
    -1.8964    2.1589    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -18481,7 +18481,7 @@ CLK032B10
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  28 31  0  0  0  0  0  0  0  0999 V2000
    -3.1583    5.0542    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -18558,7 +18558,7 @@ CLK034A08
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  27 30  0  0  0  0  0  0  0  0999 V2000
    -4.5833    2.5500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -18633,7 +18633,7 @@ CLK034E07
 
 $$$$
 
- OpenBabel03151403192D
+ OpenBabel03151408202D
 
  19 20  0  0  0  0  0  0  0  0999 V2000
    -0.6397    2.3586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
