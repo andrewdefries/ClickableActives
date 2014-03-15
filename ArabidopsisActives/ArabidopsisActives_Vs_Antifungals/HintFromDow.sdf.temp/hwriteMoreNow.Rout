@@ -39,6 +39,7 @@ rm: cannot remove `*.png': No such file or directory
 > cid(sdfset)<-substring(gsub(" ","_",sdfid(sdfset)), 1, 20)
 > cid(sdfset)<-gsub("\\=", "_", cid(sdfset))
 > cid(sdfset)<-gsub("\\/", "_", cid(sdfset))
+> cid(sdfset)<-gsub("\\?", "_", cid(sdfset))
 > #cid(smiset)<-gsub(" ","_",cid(smiset))
 > #cid(sdfset)<-gsub("\\s__\\s","",sdfid(sdfset))
 > #cid(sdfset)<-sdfid(sdfset)
@@ -623,4 +624,4 @@ NULL
 > 
 > proc.time()
    user  system elapsed 
-  4.360   0.444   4.953 
+  4.420   0.456   5.026 

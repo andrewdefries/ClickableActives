@@ -48,6 +48,10 @@ In `cid<-`(`*tmp*`, value = c("prometryn", "atrazine", "pendimethalin",  :
 Warning message:
 In `cid<-`(`*tmp*`, value = c("prometryn", "atrazine", "pendimethalin",  :
   The values in the CMP ID slot are not unique anymore. To fix this, run: cid(sdfset) <- makeUnique(cid(sdfset))
+> cid(sdfset)<-gsub("\\?", "_", cid(sdfset))
+Warning message:
+In `cid<-`(`*tmp*`, value = c("prometryn", "atrazine", "pendimethalin",  :
+  The values in the CMP ID slot are not unique anymore. To fix this, run: cid(sdfset) <- makeUnique(cid(sdfset))
 > #cid(smiset)<-gsub(" ","_",cid(smiset))
 > #cid(sdfset)<-gsub("\\s__\\s","",sdfid(sdfset))
 > #cid(sdfset)<-sdfid(sdfset)
@@ -2665,4 +2669,4 @@ In cbind(1:length(png), nnm$names, himg) :
 > 
 > proc.time()
    user  system elapsed 
- 43.850   2.508  47.064 
+ 44.414   2.856  47.977 
