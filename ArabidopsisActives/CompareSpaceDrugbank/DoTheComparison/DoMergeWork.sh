@@ -5,36 +5,44 @@ for i in *.sdf
 do
 #######################
 mkdir $i.temp
-cp hide/ClickableArabidopsisActives.sdf .
-babel $i ClickableArabidopsisActives.sdf -O $i.merge.sdf
+cp hide/ClickableArabidopsisActives.sdf $i.temp/
+cp $i $i.temp/
 ####
-rm ClickableArabidopsisActives.sdf
+#rm ClickableArabidopsisActives.sdf
 ####
-mv $i.merge.sdf $i.temp/
+#mv $i.merge.sdf $i.temp/
 ######################
 
-cp *.R $i.temp/
 
 #cp $i $i.temp/
 #merge here
 
 cd $i.temp
 ######################
-babel $i.merge.sdf $i.frag.sdf -m 
-
-find . -exec grep -q '\*' '{}' \; -delete
-find . -exec grep -q 'R#' '{}' \; -delete
-find . -exec grep -q 'A   0  0' '{}' \; -delete
-
-rm $i.merge.sdf
-babel *.frag.sdf $i.merge.sdf
+##babel $i $i.frag.sdf -m
+##rm $i
+#####
+##find . -exec grep -q '\*' '{}' \; -delete
+##find . -exec grep -q 'R#' '{}' \; -delete
+##find . -exec grep -q 'A 0 0' '{}' \; -delete
+##find . -exec grep -q 'R' '{}' \; -delete
+##find . -exec grep -q 'n0 1' '{}' \; -delete
+##find . -exec grep -q 'alkyl' '{}' \; -delete
+##find . -exec grep -q 'aryl' '{}' \; -delete
+##find . -exec grep -q 'Ca+2' '{}' \; -delete
+#####
+##babel $i.frag.sdf $i.clean.sdf
+##rm $i.frag.sdf
 #####################
-#rm $i.fra*
+babel $i ClickableArabidopsisActives.sdf -O $i.merge.sdf
+###
+cd ..
+cp *.R $i.temp/
+cd $i.temp/
 ######################
 #R CMD BATCH fmcsRthis.R
 R CMD BATCH hwriteMoreNow.R
 #####
-cd ..
 cd ..
 #######################
 done
